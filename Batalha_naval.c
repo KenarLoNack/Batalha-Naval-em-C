@@ -1,6 +1,4 @@
-```c
-
-//Batalha Naval Programado em C
+//Batalha Naval Programado em C com um Bot simples
 
 #include <stdio.h>
 #include <stdlib.h>
