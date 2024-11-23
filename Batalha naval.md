@@ -1,3 +1,5 @@
+'''c
+
 #Batalha Naval Programado em C
 
 #include <stdio.h>
