@@ -1,6 +1,6 @@
 ```c
 
-#Batalha Naval Programado em C
+//Batalha Naval Programado em C
 
 #include <stdio.h>
 #include <stdlib.h>
