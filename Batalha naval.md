@@ -1,4 +1,4 @@
-'''c
+```c
 
 #Batalha Naval Programado em C
 
