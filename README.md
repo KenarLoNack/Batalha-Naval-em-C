@@ -2,7 +2,7 @@
 
 Este é um jogo de Batalha Naval desenvolvido em C, utilizando matrizes e outros conceitos fundamentais da linguagem. O programa inclui um modo onde o jogador enfrenta um bot controlado por lógica básica.
 
-## Funcionamento do Bot
+### Funcionamento do Bot
 
 O bot emprega uma estratégia simples:
 
