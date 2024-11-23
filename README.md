@@ -7,7 +7,7 @@ Este é um jogo de Batalha Naval desenvolvido em C, utilizando matrizes e outros
 O bot emprega uma estratégia simples:
 
 Busca inicial: Ele tenta acertar aleatoriamente no tabuleiro.
-Foco após um acerto: Quando acerta um navio, concentra seus ataques na área ao redor para tentar localizar o restante do navio com maior precisão.
+Foco após um acerto: Quando acerta um navio, concentra seus ataques na área ao redor (7x7) para tentar localizar o restante do navio com maior precisão.
 
 ### Sobre o código
 
